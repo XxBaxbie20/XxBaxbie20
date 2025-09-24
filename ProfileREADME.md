@@ -1,51 +1,65 @@
 
-<h1 style="font-size: 2.5em; color: #blue;">Hi, I'm Bright!👋</h1>
+# 👋 Hi, I'm Ernest (aka XxBaxbie20)
 
-<p style="font-size: 1.2em; font-style: italic; color: #4b5563;">A dedicated Frontend Web Development Learner on a mission to build amazing things.</p>
+🚀 **Frontend Developer in Training | ALX Learner | Open Source Enthusiast**
 
+I’m on a journey to sharpen my frontend skills while building projects that help with **focus, consistency, and productivity**.  
 
+---
 
+## 🌟 About Me
+- 🌱 Currently learning **HTML, CSS, JavaScript** with ALX  
+- 💻 Love building projects that solve real problems  
+- 📊 Exploring productivity tools (e.g., my [Challenge Tracker](https://github.com/XxBaxbie20/challenge-tracker))  
+- 🤝 Open to collaboration and contributions  
 
+---
 
+## 🔨 Tech Stack
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
 
-## About Me 🚀
+---
 
-I'm a passionate **Junior developer** with experience in ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-. I'm currently honing these skills through my dedicated studies at ALX, where I'm constantly tackling complex problems and learning new ways to build innovative solutions. I love collaborating with diverse teams and am on a mission to become a skilled software developer.
+## 🚀 Featured Project
+### [📂 Challenge Tracker](https://github.com/XxBaxbie20/challenge-tracker)  
+**A 30-Day No Social Media Challenge Tracker** built with HTML, CSS, and JavaScript.  
 
-- 🌱 Currently learning: **HTML, CSS, Javascript with REACT**
-- 🌍 Languages: **Rust, Ibibio, and English**
-- ⚡ Fun fact: **I don't rest untill i finish a particular task**.
+- ✅ Track daily progress  
+- 📝 Add notes  
+- 📊 Progress bar  
+- 🌙 Dark mode  
 
-<h2>👨‍💻 Featured Projects:</h2>
+🔗 **Live Demo:** [Try it here](https://xxbaxbie20.github.io/challenge-tracker/)  
 
-- <b>BIGOFA HUB project</b>
-  - [BIGOFA Deck](https://docs.google.com/presentation/d/1wfUuENIxOFdMHWmizfH09hKpf1YqqzaOdijiHE10JIU/edit?usp=sharing)
-- <b>BIGOFA Pitch</b>
-  - [BIGOFA Hub Presentation](https://youtu.be/jv9prtnpvY4?feature=shared)
-    
- <h2>🥇Certification</h2>
- 
-  - [ALX PROFESSIONAL FOUNDATION 2025](https://savanna.alxafrica.com/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBK3VrTEE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--50ce2e8f270efe43e21839748d80a9b0c4adeb45/89-professional-foundations-certificate-bright-ernest.png?disposition=attachment)
-  - BSc POLITICAL SCIENCE AND PUBLIC ADMINISTRATION University of Uyo, Nigeria 2024
+---
 
-<h2>📺 YouTube Videos</h2>
+## 📊 GitHub Stats
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=XxBaxbie20&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XxBaxbie20&layout=compact&theme=tokyonight" height="160" />
+</p>
 
-- [W.T. Fellowship 2025 Application Video](https://youtube.com/shorts/4XW0bGeT9VY?feature=share)
-  
+---
 
-<h2> 🤳 Connect with me:</h2>
+## 📫 Connect With Me
 
-[<img align="left" alt="ErnestBright| YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="ErnestBright| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="ErnestBright| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<p>
+  <a href="https://linkedin.com/in/bright-ernest">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/ernest_brightt">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="mailto:brighte172@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Discord-%235865F2.svg?&style=for-the-badge&logo=discord&logoColor=white" /> @ani_ennnn 
+</p>
 
+---
 
-[twitter]: https://x.com/ernest_brightt
-[youtube]: https://www.youtube.com/@ernestbright1618
-[linkedin]: https://linkedin.com/in/ernest-bright
-
+✨ *“Code, consistency, and focus — that’s the journey.”* ✨
